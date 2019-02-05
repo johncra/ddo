@@ -1,0 +1,21 @@
+{
+  "didDocument": {
+    "@context": "https://w3id.org/did/v1",
+    "publicKey": [
+      {
+        "id": "#keys-2",
+        "type": "RsaVerificationKey2018",
+        "publicKeyPem": "-----BEGIN PUBLIC KEY...END PUBLIC KEY-----\r\n"
+      }
+    ],
+    "authentication": [
+      {
+        "type": "RsaSignatureAuthentication2018",
+        "publicKey": "#keys-2"
+      }
+    ]
+  },
+  "claims": [
+  
+  ]
+}
