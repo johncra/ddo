@@ -1,0 +1,4 @@
+  "AadClientId": "5577a310-8ec5-48f2-b8c8-ca86989f566c",
+  "AadSecret": "azQ8Q~VkrwekW0dwqgWR0Z0Tlmf_y55PFBGGWb7S",
+  "AadTenantDomain": "xtsdev.onmicrosoft.com",
+  "AadTenantId": "5829db01-9eab-49dd-a54b-e2874ca92101",
