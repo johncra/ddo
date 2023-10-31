@@ -1,4 +1,4 @@
-  "AadClientId": "5577a310-8ec5-48f2-b8c8-ca86989f566c",
-  "AadSecret": "azQ8Q~VkrwekW0dwqgWR0Z0Tlmf_y55PFBGGWb7S",
-  "AadTenantDomain": "xtsdev.onmicrosoft.com",
-  "AadTenantId": "5829db01-9eab-49dd-a54b-e2874ca92101",
+  "AadClientId": "9c3a169b-e7b0-49b2-ba7b-af444791f127",
+  "AadSecret": "eDW8Q~6cHZjktV.tbA7dvenDOhXIhC5DD9PYldyA",
+  "AadTenantDomain": "xtsdev4.onmicrosoft.com",
+  "AadTenantId": "3818b306-6896-43e2-8963-38513364d562",
